@@ -1,4 +1,4 @@
-# Elixir Distribution Repo <img src="https://gitlab.e.foundation/Alex313031/elixir-desktop/-/blob/main/app_icon.png" width="64">
+# Elixir Distribution Repo <img src="https://raw.githubusercontent.com/Alex313031/Elixir-Dist/main/app_icon.png" width="48">
 
  - Simply a place to dump builds of elixir browser.
 
